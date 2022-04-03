@@ -33,7 +33,7 @@ The packages required to run are:
 
 ## Usage
 
-To start the process, go to the deployed site [here](https://sampreeti-14-mvc-tech-blog.herokuapp.com/)
+To start the process, go to the deployed site [here](https://sampreeti-19-pwa-homework.herokuapp.com/)
 
 ## License
 
@@ -46,7 +46,7 @@ Sampreeti Das
 
 ## Test
 
-To run the test, please go to the deployed site [here](https://sampreeti-14-mvc-tech-blog.herokuapp.com/)
+To run the test, please go to the deployed site [here](https://sampreeti-19-pwa-homework.herokuapp.com/)
 
 ## Questions
 
